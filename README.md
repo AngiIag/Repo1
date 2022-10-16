@@ -23,7 +23,7 @@ Project Requirements
  - 2 mid developers
  - 1 QA Lead
  - 1 senior QA
- - 2 mid QA
+ - 1 mid QA
  - 1 Project Manager
  - The project must be completed in 3 months
 
@@ -67,12 +67,17 @@ Project Requirements
 
 **Project Stories**
 
- - New account registration
- - to be added
+ - Sign-up registration flow
+ - Sign-in flow
+ - Search and select a menu on the site
+ - Payment options flow
 
 **Project Test Cases**
 
- - User registration with new account
+ - Sign-up registration flow
+ - Sign-in flow
+ - Search and select a menu on the site
+ - Payment options flow
 
 **Test Execution**
 
